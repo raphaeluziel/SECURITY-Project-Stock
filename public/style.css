@@ -1,0 +1,15 @@
+body{
+  margin: 60px;
+}
+input{
+  margin: 10px;
+}
+.response{
+  height: 80px;
+  background-color: yellow;
+}
+
+.responses{
+  height: 150px;
+  background-color: #eff;
+}
